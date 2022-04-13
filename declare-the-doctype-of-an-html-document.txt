@@ -1,0 +1,5 @@
+ <!DOCTYPE html>
+<html>
+  <h1>cap photo app</h1>
+
+</html> 
